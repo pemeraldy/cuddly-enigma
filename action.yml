@@ -1,0 +1,6 @@
+name: 'init flow'
+description: 'Testing actions'
+
+runs:
+  using: 'node14'
+  main: 'index.js'
