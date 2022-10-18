@@ -1,0 +1,40 @@
+node_modules/
+.cache/
+src/.temp
+dist/*
+.DS_Store
+# dependencies
+node_modules
+storybook-static
+
+# logs
+npm-debug.log
+
+# Nuxt build
+.nuxt
+
+# Nuxt generate
+dist
+
+# Mac OS
+.DS_Store
+
+# Athena Log File
+athena.log
+athena-errors.log
+
+/coverage
+/reports
+/junit.xml
+/config
+sw.*
+
+test/e2e/screenshots
+test/e2e/videos
+styleguide/
+
+.vscode
+
+.env
+
+**/.DS_Store
