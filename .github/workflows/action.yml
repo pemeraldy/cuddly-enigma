@@ -1,5 +1,5 @@
 name: init action
-run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+run-name: ${{ github.actor }} from action.yml file 🚀
 on: 
   push:
     branches: [ dev ]
