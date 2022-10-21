@@ -1,6 +1,0 @@
-name: 'init flow'
-description: 'Testing actions'
-
-runs:
-  using: 'node12'
-  main: 'index.js'
