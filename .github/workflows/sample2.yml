@@ -1,9 +1,5 @@
 name: GitHub Actions Demo
-<<<<<<< HEAD
 run-name: ${{ github.actor }} from sample2.yml file 🚀
-=======
-run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
->>>>>>> fe737d09f8c1d5ce86f9b94cb5f64de2851dd90f
 on: [push]
 jobs:
   Explore-GitHub-Actions:
